@@ -1,9 +1,9 @@
 # VPS Docker Migration Documentation
-## From Vercel to Self-Hosted Infrastructure
+## Creating VPS user and transfer project to new user from root
 
 **Project Date:** May 22, 2026  
 **Status:** ✅ Completed Successfully  
-**Server:** VMI3044668 (VPS with Docker)
+**Server:** (VPS with Docker)
 
 ---
 
